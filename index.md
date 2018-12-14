@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>YZX的网页啦！</title>
+    <title>Title</title>
 </head>
 <body>
 老子是不朽的！！
